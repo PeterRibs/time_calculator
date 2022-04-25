@@ -38,6 +38,6 @@ add_time("6:30 PM", "205:12")
 
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
 
-### Development
+### Run
 
-Write your code in `add_time.py`. For development, you can use `main.py` to test your `add_time()` function. Click the "run" button and `main.py` will run.
+Write your code in `add_time.py`. To run, you can use `main.py` to test your `add_time()` function.
